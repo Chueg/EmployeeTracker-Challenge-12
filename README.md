@@ -33,13 +33,13 @@ Run the command `npm install` and populate the database as provided in the walkt
 ## License
 
 
-undefined
+
 ## Contributing
 
 
 ## Tests
 
-There are no tests for this project.
+There are no tests for this project, all of the validation occurs in the inquirer prompts.
 
 ## Questions
 
